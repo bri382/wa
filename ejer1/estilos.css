@@ -1,0 +1,10 @@
+.play-button {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.user-info { 
+    display: flex;
+    justify-content: space-between;
+}
+
